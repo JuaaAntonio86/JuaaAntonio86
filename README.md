@@ -7,17 +7,17 @@
 
 ┌──┤ACCOMPLISHED 42 PROJECTS├───────▰▰▰
 │
-├─◈ libft
-├─◈ get_next_line
-├─◈ ft_printf
-├─◈ Born2beRoot
-├─◈ minitalk
-├─◈ so_long
-├─◈ push_swap
-├─◈ Philosophers
-├─◈ minishell
-├─◈ Cub3D
-├─◈ CPP_Modules
+libft
+get_next_line
+ft_printf
+Born2beRoot
+minitalk
+so_long
+push_swap
+Philosophers
+minishell
+Cub3D
+CPP_Modules
 │
 └───────────────────────────────▰▰▰
 <!---
