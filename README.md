@@ -3,22 +3,22 @@
 - 🌱 I’m currently learning software development at Fundacion Telefonica 42 Barcelona.
 - 💞️ I’m looking forward to learn and become a skilled professional coder. 
 - 📫 How to reach me ? www.linkedin.com/in/juan-antonio-martinez-morales-308b8189
-                       juan-anm@student.42barcelona.com
+- @ Email: juan-anm@student.42barcelona.com
 
 ┌──┤ACCOMPLISHED 42 PROJECTS├───────▰▰▰
 │
-libft
-get_next_line
-ft_printf
-Born2beRoot
-minitalk
-so_long
-push_swap
-Philosophers
-minishell
-Cub3D
-CPP_Modules
-│
+- libft
+- get_next_line
+- ft_printf
+- Born2beRoot
+- minitalk
+- so_long
+- push_swap
+- Philosophers
+- minishell
+- Cub3D
+- CPP_Modules
+- to Continue...
 └───────────────────────────────▰▰▰
 <!---
 JuaaAntonio86/JuaaAntonio86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
