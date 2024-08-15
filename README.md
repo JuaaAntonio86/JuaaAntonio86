@@ -1,3 +1,6 @@
+
+![programmer](https://github.com/user-attachments/assets/944ca94c-4bc9-4e20-82cc-be3c2a2fe5b5)
+
 - 👋 Hi, I’m @JuaaAntonio86
 - 👀 I’m interested in the latest technologies, computer science and many other things...
 - 🌱 I’m currently learning software development at Fundacion Telefonica 42 Barcelona.
